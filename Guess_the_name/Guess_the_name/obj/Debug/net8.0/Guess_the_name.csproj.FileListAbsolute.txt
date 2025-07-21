@@ -1,0 +1,14 @@
+D:\dotnet\Guess_the_name\Guess_the_name\bin\Debug\net8.0\Guess_the_name.exe
+D:\dotnet\Guess_the_name\Guess_the_name\bin\Debug\net8.0\Guess_the_name.deps.json
+D:\dotnet\Guess_the_name\Guess_the_name\bin\Debug\net8.0\Guess_the_name.runtimeconfig.json
+D:\dotnet\Guess_the_name\Guess_the_name\bin\Debug\net8.0\Guess_the_name.dll
+D:\dotnet\Guess_the_name\Guess_the_name\bin\Debug\net8.0\Guess_the_name.pdb
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.AssemblyInfoInputs.cache
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.AssemblyInfo.cs
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.csproj.CoreCompileInputs.cache
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.dll
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\refint\Guess_the_name.dll
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.pdb
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\Guess_the_name.genruntimeconfig.cache
+D:\dotnet\Guess_the_name\Guess_the_name\obj\Debug\net8.0\ref\Guess_the_name.dll
